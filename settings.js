@@ -23,14 +23,14 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
+  global.ownername = 'GilzzOFC' // Ganti Jadi Namamu
+  global.owner = ['6281241056195','6281241056195','6281241056195'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.botname = 'GilzzMD' // Ganti Jadi Nama Botmu
+  global.packname = 'GilzzXD' // Sticker Weem
+  global.author = 'GilzMD' // Sticker Weem
+  global.webme = 'https://wa.me/6281241056195' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/IwyU93ItXJSHwsfM2RU6MU' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
